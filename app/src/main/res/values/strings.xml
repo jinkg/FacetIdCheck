@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NativeTest</string>
+    <string name="get_facet">GET FACET</string>
+</resources>
