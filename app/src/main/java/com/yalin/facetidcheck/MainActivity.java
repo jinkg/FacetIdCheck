@@ -11,9 +11,6 @@ import android.widget.TextView;
  * On 2016/10/23.
  */
 public class MainActivity extends AppCompatActivity {
-    static {
-        System.loadLibrary("facet_id-lib");
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
